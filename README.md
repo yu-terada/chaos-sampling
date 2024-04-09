@@ -1,4 +1,4 @@
-# Chaos Sampling Recurrent Network
+# Chaos Sampling Recurrent Neural Networks
 
 In this simulation, the network starts with gaussian random weights and learns to generate posterior distributions through sampling.
 
